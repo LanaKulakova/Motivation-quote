@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/CSS-black?logo=css3)
 
 
-<h1 align="center"> Get a motivation quote! </h1>
+<h1 align="center"> Get a motivational quote! </h1>
 
 <h2> Project Description</h2>
 <p> Application contains a number of motivational quotes which you can asses by clicking on "Get a motivational quote" button. It will show you the quote chosen randomly from the list of the quotes. </p>
