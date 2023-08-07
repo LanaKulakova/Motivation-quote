@@ -1,0 +1,37 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1533791647744-3c31d1339fdc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1585&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    }
+
+#container {
+        display: flex;
+        justify-content: center; 
+        align-items: center;
+        height: 100vh;
+        }
+
+#btn {
+background-color: white;
+border-radius: 50px;
+padding: 10px;
+font-size: 30px;
+border: 1px solid black;
+font-family: 'Pacifico', cursive;
+position: fixed;
+}
+
+#par {
+    display: none;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+    background-color: white;
+    margin-top: 400px;
+    padding: 20px;
+    border: 5px solid rgb(25, 92, 11);
+    border-radius: 50px;
+    width: 70%;
+    text-align: center;
+}
+
